@@ -1,18 +1,14 @@
 {
-	"name": "matteocacciola/php-trello-api",
+	"name": "albreis/trello",
 	"type": "library",
-	"description": "Trello API v2 client",
-	"homepage": "https://github.com/matteocacciola/php-trello-api",
+	"description": "API Trello",
+	"homepage": "https://github.com/albreis/trello",
 	"keywords": ["trello"],
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Christian Daguerre",
-			"email": "christian@daguer.re"
-		},
-                {
-			"name": "Matteo Cacciola",
-			"email": "matteo.cacciola@gmail.com"
+			"name": "ER Soluções Web LTDA",
+			"email": "contato@ersolucoesweb.com.br"
 		}
 	],
 	"require": {
