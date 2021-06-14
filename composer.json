@@ -5,6 +5,7 @@
 	"homepage": "https://github.com/albreis/trello",
 	"keywords": ["trello"],
 	"license": "MIT",
+	"version": "1.0.0",
 	"authors": [
 		{
 			"name": "ER Soluções Web LTDA",
